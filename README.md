@@ -1,7 +1,7 @@
 has_char
 ========
 
-Small tool to determine whether a certain font contains a certain characters. Usage is:
+Small tool to determine whether a certain font contains certain characters. Usage is:
 
     ./has_char font_name < characters_to_be_tested.txt
 
